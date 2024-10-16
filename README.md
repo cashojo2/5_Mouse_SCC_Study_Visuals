@@ -1,4 +1,4 @@
-# Pymaceuticals_matplotlib
+# Mouse SCC Study Visuals
 
 This repo demonstrates the creation of visualizations using pandas and matplotlib.
 
